@@ -1,5 +1,5 @@
 
-# Finance Investment calculator
+# Finance Investment and repayment calculator
 
 A Calculator application where the user has a choice of two financial calculator options, 
 **Interest** earned on an investment over time or 
